@@ -1,0 +1,24 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: antiquewhite;
+}
+.content a, .content li{
+    text-decoration: none;
+    color: brown;
+    font-size: larger;
+}
+
+/* TOAST */
+
+.title{
+    text-align: center;
+}
+
+div.steps{
+    color: black;
+}
+
+h3{
+    color: brown;
+}
+
